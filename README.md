@@ -1,7 +1,7 @@
 # 🌊 Hello, I'm Artur 🚀
 
 Nice to meet you! I'm a frontend developer. Some technologies I enjoy working with include React JS, Javascript and Typescript.<br>
-**I am looking for a job now🔎**<br>
+
 - 👩🏾‍💻 My projects:<br>
 Markup: [7 Yard](https://github.com/destiny503/7-yard-cafe)<br>
 Frontend: [React Sneakers](https://github.com/destiny503/react-sneakers)<br>
