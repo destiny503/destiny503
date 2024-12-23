@@ -2,7 +2,7 @@
 
 Nice to meet you! I'm a frontend developer. Some technologies I enjoy working with include React and Typescript.<br>
 
-- ✨ Check my [PORTFOLIO](https://github.com/destiny503/portfolio)<br>
+- ✨ Check my [PORTFOLIO](https://destiny503.github.io/portfolio/)<br>
 
 - 👩🏾‍💻 My projects:<br>
 Frontend: [Auto.ru FE](https://github.com/destiny503/autoru-filter-extended-react) , [VDcom CRM MVP](https://github.com/destiny503/vdcom-test)<br>
