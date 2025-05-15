@@ -8,7 +8,7 @@ Nice to meet you! I'm a frontend developer. Some technologies I enjoy working wi
 Frontend: [Auto.ru FE](https://github.com/destiny503/autoru-filter-extended-react) , [VDcom CRM MVP](https://github.com/destiny503/vdcom-test)<br>
 Markup: [7 Yard](https://github.com/destiny503/7-yard-cafe) , [Tealuxe](https://github.com/destiny503/tealuxe) , [Fanatic Boards](https://github.com/destiny503/fanatic-boards)<br>
 Fullstack: [...example](https://github.com/destiny503/some-pern)<br>
-Fun: [Custom Car](https://github.com/destiny503/custom-car) , [Okak Audio](https://destiny503.github.io/okak)<br>
+Fun: [Custom Car](https://github.com/destiny503/custom-car) , [Okak Audio](https://github.com/destiny503/okak)<br>
 - 📫 How to reach me:<br>
 email: 503destiny503@gmail.com<br>
 telegram: https://t.me/destiny503<br>
