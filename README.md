@@ -1,4 +1,4 @@
-# 🌊 Hello, I'm Artur 🚀
+# 🌊 Hello, I'm Artur 👽
 
 Nice to meet you! I'm a frontend developer. Some technologies I enjoy working with include React and Typescript.<br>
 
