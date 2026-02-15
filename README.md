@@ -1,6 +1,6 @@
 # Hello, I'm Artur 🌊
 
-Nice to meet you! I'm a frontend developer. Some technologies I enjoy working with include React and Typescript.<br>
+Nice to meet you! I'm a frontend developer. Some technologies I enjoy working with include React and JavaScript.<br>
 
 - ✨ Check my [PORTFOLIO](https://destiny503.github.io/portfolio/)<br>
 
